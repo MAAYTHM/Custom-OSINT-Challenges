@@ -4,9 +4,12 @@
 
 **Scenario:** Our target, Person "A," traveled from Bhilwara to an iON Digital Zone in a neighboring city yesterday with his sister. To prove he made the trip, he shared this partially cropped bus ticket (`ticket.png`).
 
-**Question 1:** Person "A" claims they saw a food joint (which also delivers via Swiggy and Zomato) located immediately to the left of the testing center. However, from my previous reconnaissance of that area, I am highly confident that the adjacent storefront was occupied by a transport contractor, not a restaurant. Based on your geolocation and verification skills, who is telling the truth?
+**Your Mission Objectives:**
+Trace the target's exact trajectory to locate the specific iON Digital Zone they arrived at, then verify the physical intel of the surrounding area to answer the following:
 
-**Question 2:** What is the exact, current name of the establishment occupying that storefront today?
+**Question 1:** Intelligence suggests the storefront immediately to the left of the testing center previously belonged to a completely different business category. Is this true? (Y/N)
+
+**Question 2:** Identify the business currently operating in that same storefront today. Based on the public regulatory information displayed on their signage, in what year was their current operating license issued? (20xx)
 
 ---
 
