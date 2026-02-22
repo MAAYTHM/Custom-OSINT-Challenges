@@ -1,4 +1,4 @@
-# 🕵️‍♂️ OSINT Challenge: The Transit Trail
+# 🕵️‍♂️ OSINT Challenge: Bus Trip
 
 ## 📂 CASE BRIEFING: The Bus Ticket
 
