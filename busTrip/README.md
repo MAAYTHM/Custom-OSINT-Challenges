@@ -1,6 +1,6 @@
 # 🕵️‍♂️ OSINT Challenge: Bus Trip
 
-## 📂 CASE BRIEFING: The Bus Ticket
+## 📂 CASE BRIEFING
 
 **Scenario:** Our target, Person "A," traveled from Bhilwara to an iON Digital Zone in a neighboring city yesterday with his sister. To prove he made the trip, he shared this partially cropped bus ticket (`ticket.png`).
 
